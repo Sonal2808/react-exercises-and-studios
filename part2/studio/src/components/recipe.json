@@ -1,18 +1,21 @@
-[
-   {
-     "name": "Stovetop Mac and Cheese",
-     "author": "Stephanie Melchione",
-     "description": "This Creamy Stovetop Mac and Cheese is the BEST 30-minute meal for a busy week. Your family will love it every time!",
-     "website": "https://thecozycook.com/stovetop-mac-and-cheese/",
-     "recipeImage": "https://thecozycook.com/wp-content/uploads/2021/10/Stovetop-Mac-and-Cheese-2.jpg",
-     "authorImage": "https://thecozycook.com/wp-content/uploads/2021/11/The-Cozy-Cook.jpg",
+
+[ {
+   
+     "name": "The Best Cheesecake",
+     "author": "Tessa Arias",
+     "description": "Stop right here! This is the BEST Cheesecake recipe! Buttery graham cracker crust and a perfectly smooth and tangy cheesecake with NO CRACKS thanks to the water bath. Keep reading to get my best cheesecake tips and the full recipe!",
+     "website": "https://handletheheat.com/ultimate-cheesecake/",
+     "recipeImage": "https://handletheheat.com/wp-content/uploads/2016/08/ultimate-classic-cheesecake-recipe-SQUARE-768x768.jpg",
+     "authorImage": "https://handletheheat.com/wp-content/themes/handletheheatv2/images/tessa-recipe-rundown.jpg",
      "ingredients": [
-       "uncooked macaroni",
+       "crackers crumbs",
+       "sugar",
        "butter",
-       "flour",
-       "heavy cream",
-       "milk"
+       "cream cheese",
+       "fresh lemon juice",
+       "fresh raspberries"
      ]
    }
- ]
- 
+   
+  ]
+
